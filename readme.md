@@ -1,8 +1,8 @@
 # Example implementation for calculating variant allele frequencies
 
-These scripts try to set up a method for calculating variant allele frequencies (VAFs) from mitochondrial reads of a 10X Genomics scRNA-seq dataset. This is an attempt at following the method to perform lineage traciing using mitochondrial mutations and single-cell genomics described (here)[https://www.cell.com/cell/pdf/S0092-8674(19)30055-8.pdf]
+These scripts try to set up a method for calculating variant allele frequencies (VAFs) from mitochondrial reads of a 10X Genomics scRNA-seq dataset. This is an attempt at following the method to perform lineage traciing using mitochondrial mutations and single-cell genomics described [here.](https://www.cell.com/cell/pdf/S0092-8674(19)30055-8.pdf)
 <br>
-(Ludwig, L. S., Lareau, C. A., Ulirsch, J. C., Christian, E., Muus, C., Li, L. H., ... & Law, T. (2019). Lineage tracing in humans enabled by mitochondrial mutations and single-cell genomics. Cell, 176(6), 1325-1339.)[https://www.cell.com/cell/pdf/S0092-8674(19)30055-8.pdf]
+[Ludwig, L. S., Lareau, C. A., Ulirsch, J. C., Christian, E., Muus, C., Li, L. H., ... & Law, T. (2019). Lineage tracing in humans enabled by mitochondrial mutations and single-cell genomics. Cell, 176(6), 1325-1339.](https://www.cell.com/cell/pdf/S0092-8674(19)30055-8.pdf)
 
 ### Isolating mitochondrial reads
 
