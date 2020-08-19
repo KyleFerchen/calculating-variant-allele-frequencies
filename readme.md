@@ -26,3 +26,5 @@ Next, the script 'get_nucleotide_counts_for_mt_reads.py' can be run on the filte
 ### Calculating allele frequencies
 
 Lastly, a script can be run that takes the dictionary created from the previous step, and calculates the frequency for each allele.
+
+For example, 'count_af_h34.py' in this repository.
