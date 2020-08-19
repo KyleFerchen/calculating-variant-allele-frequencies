@@ -21,7 +21,7 @@ Example:
 
 ### Counting nucleotide occurrences
 
-Next, the script 'get_nucleotide_counts_for_mt_reads.py' can be run on the filtered bam file to count the occurrences for each base at each position that has coverage from the experiment. The result is stored in a shelf file as a dictionary. It uses pysam to 
+Next, the script 'get_nucleotide_counts_for_mt_reads.py' can be run on the filtered bam file to count the occurrences for each base at each position that has coverage from the experiment. The result is stored in a shelf file as a dictionary. It uses pysam to loop through the bam reads, counting the occurrence for each base at each position.
 
 ### Calculating allele frequencies
 
